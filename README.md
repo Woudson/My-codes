@@ -1,2 +1,2 @@
 # My-codes
-My initials codes in JS
+My starters codes in JS
